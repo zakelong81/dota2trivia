@@ -1,10 +1,16 @@
 {"Dota2Trivia":[
-
 	{
 	"question":"vanguard_question.png",
 	"answer1":"Vanguard.png",
 	"answer2":"Eaglesong.png",
 	"answer3":"Ring_of_Aquila.png"
+	},
+	{
+	"question":"bane_sheep_stick.mp3",
+	"answer1":"bane.png",
+	"answer2":"slark.png",
+	"answer3":"OD.png",
+	"question2":"What hero is saying this line?"
 	},
 	{
 	"question":"Slark_question.png",
@@ -18,6 +24,13 @@
 	"answer2":"Stampede_mana.png",
 	"answer3":"WalrusPUNCH_mana.png"
   },
+	{
+	"question":"underlordspell.mp4",
+	"answer1":"Pit_of_Malice.png",
+	"answer2":"Flux.png",
+	"answer3":"Eye_of_the_Storm.png",
+	"question2":"What is the name of this spell?"
+	},
   {
     "question":"invoker_stats.png",
     "answer1":"invoker.png",
