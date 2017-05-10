@@ -13,29 +13,30 @@
 	"question2":"What hero is saying this line?"
 	},
 	{
-	"question":"Slark_question.png",
-	"answer1":"slark.png",
-	"answer2":"clock.png",
-	"answer3":"trent.png"
+	  "question":"invoker_stats.png",
+	  "answer1":"invoker.png",
+	  "answer2":"medusa.png",
+	  "answer3":"meepo.png"
 	},
 	{
 	"question":"Earth_Splitter_question.png",
 	"answer1":"Earth_Splitter_mana.png",
 	"answer2":"Stampede_mana.png",
 	"answer3":"WalrusPUNCH_mana.png"
-  },
+	},
 	{
-	"question":"underlordspell.mp4",
+	"question":"Pit_of_Malice_question.mp4",
 	"answer1":"Pit_of_Malice.png",
 	"answer2":"Flux.png",
 	"answer3":"Eye_of_the_Storm.png",
 	"question2":"What is the name of this spell?"
 	},
-  {
-    "question":"invoker_stats.png",
-    "answer1":"invoker.png",
-    "answer2":"medusa.png",
-    "answer3":"meepo.png"
-  }
+	{
+	"question":"Slark_question.png",
+	"answer1":"slark.png",
+	"answer2":"clock.png",
+	"answer3":"trent.png"
+	}
+
 ]
 }

@@ -123,7 +123,10 @@ $(document).ready(function () {
 		+ TotalTriviaQuestion
 		+ '<br>Correct answers: '
 		+ point
-		+ '</div>');
+		+ '</div>'
+
+  );
     }
+    
 }
 );
